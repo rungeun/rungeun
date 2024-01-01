@@ -37,6 +37,8 @@ Little<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjdrmsdl5&show_icons=true&theme=radical)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 📧Email : wjdrmsdl5@gmail.com
 
 <!--
