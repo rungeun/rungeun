@@ -35,6 +35,10 @@ Little<br>
 
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdrmsdl5)](https://solved.ac/wjdrmsdl5/)
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rungeun&show_icons=true&theme=radical)
 
 📧Email : wjdrmsdl5@gmail.com
