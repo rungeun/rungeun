@@ -1,7 +1,7 @@
 <br><br>
 
 <div align=center><h3>반갑습니다👋</h3></div>
-<div align=center><h3>현재 컴퓨터공학과를 전공하며 열정적으로 학습하고 있습니다.</h3></div>
+<div align=center><h3>현재 컴퓨터정보공학과를 전공하며 열정적으로 학습하고 있습니다.</h3></div>
 <div align=center><h3>지속적인 성장과 끊임없는 학습을 추구하며, 새로운 기술과 아이디어에 항상 열려 있습니다.</h3></div>
 
 <br><br>
