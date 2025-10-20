@@ -39,7 +39,7 @@ Little<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rungeun&show_icons=true&theme=radical)
 
-📧Email : wjdrmsdl5@gmail.com
+📧Email : me@rungeun.space
 
 <!--
 **wjdrmsdl5/wjdrmsdl5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
